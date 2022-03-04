@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m9FakQ+1Jc1D/CJBR/QymSm/L4EMASoMO3A+uTvb/v5wxb/tPHklDATFbggjsKDjFFT6GSFAWAKKQWOvLNscmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\ConsumoApuNodeC\\ConsoleConsumoApiNode\\ConsoleConsumoApiNode\\ConsoleConsumoApiNode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valdi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
